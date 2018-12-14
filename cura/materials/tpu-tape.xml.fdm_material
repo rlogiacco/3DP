@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura">
+  <metadata>
+    <name>
+      <brand>Surreal</brand>
+      <material>TPU</material>
+      <color>Generic</color>
+      <label>TPU (Tape)</label>
+    </name>
+    <version>3</version>
+    <definition>fdmprinter</definition>
+    <GUID>35287c67-95be-4add-8b07-8ed0f92bbc2c</GUID>
+    <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
+    <color_code>#00aaff</color_code>
+    <description>Semi flexible material.</description>
+    <compatible>True</compatible>
+  </metadata>
+  <properties>
+    <density>1.2</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="retraction speed">0.0</setting>
+    <setting key="retraction amount">0.0</setting>
+    <setting key="heated bed temperature">0.0</setting>
+    <setting key="standby temperature">200.0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="print temperature">240.0</setting>
+    <machine>
+      <machine_identifier manufacturer="IMADE3D" product="IMADE3D JellyBOX" />
+      <setting key="heated bed temperature">55</setting>
+      <setting key="standby temperature">175</setting>
+      <setting key="print temperature">210</setting>
+      <hotend id="0.4 mm">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+      <hotend id="0.4 mm 2-fans">
+        <setting key="hardware compatible">yes</setting>
+      </hotend>
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Cartesio bv" product="cartesio" />
+      <setting key="retraction speed">40</setting>
+      <setting key="print cooling">40.0</setting>
+      <setting key="heated bed temperature">50</setting>
+      <setting key="standby temperature">160</setting>
+      <setting key="print temperature">185</setting>
+      <hotend id="0.25mm thermoplastic extruder">
+        <setting key="hardware compatible">yes</setting>
+        <setting key="retraction amount">1.0</setting>
+      </hotend>
+      <hotend id="0.4mm thermoplastic extruder">
+        <setting key="hardware compatible">yes</setting>
+        <setting key="retraction amount">1.0</setting>
+      </hotend>
+      <hotend id="0.8mm thermoplastic extruder">
+        <setting key="hardware compatible">yes</setting>
+        <setting key="retraction amount">1.5</setting>
+      </hotend>
+    </machine>
+  </settings>
+</fdmmaterial>
