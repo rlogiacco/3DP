@@ -1,9 +1,29 @@
 theme: jekyll-theme-architect
+title: "3DP for Dummies"
+title_separator: "|"
+author:
+  name     : "Roberto Lo Giacco"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Rome, IT"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://rlogiacco.wordpress.com"
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://rlogiacco.wordpress.com"
+search: true
+#search_provider: algolia
 include: ["_pages"]
 defaults:
   - 
     scope:
       path: ""
+      type: pages
     values:
+      layout: single
       sidebar:
         nav: "docs"
