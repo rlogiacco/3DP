@@ -1,4 +1,9 @@
-theme: jekyll-theme-architect
+
+plugins:
+  - jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.14.2"
+
+#theme: jekyll-theme-architect
 title: "3DP for Dummies"
 title_separator: "|"
 author:
