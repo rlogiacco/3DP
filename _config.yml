@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
-
+include: ["_pages"]
 defaults:
   - 
     scope:
