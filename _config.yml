@@ -6,4 +6,4 @@ defaults:
       path: ""
     values:
       sidebar:
-        nav: "navbar"
+        nav: "docs"
