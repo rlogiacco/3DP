@@ -2,8 +2,8 @@
 plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.14.2"
+minimal_mistakes_skin: "dark"
 
-#theme: jekyll-theme-architect
 title: "3DP for Dummies"
 title_separator: "|"
 author:
@@ -15,12 +15,18 @@ author:
     - label: "Blog"
       icon: "fas fa-fw fa-link"
       url: "https://rlogiacco.wordpress.com"
+    - label: "AgileWare"
+      icon: "fas fa-fw fa-link"
+      url: "https://agileware.org"
 footer:
   links:
+    - label: "Blog"
+      icon: "fab fa-fw fa-wordpress-square"
+      url: "https://rlogiacco.wordpress.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://rlogiacco.wordpress.com"
-search: true
+      url: "https://tritter.com/rlogiacco"
+search: false
 #search_provider: algolia
 include: ["_pages"]
 defaults:
