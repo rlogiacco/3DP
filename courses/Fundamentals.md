@@ -1,4 +1,6 @@
-# Fundamentals of 3D printing
+---
+title: Fundamentals of 3D printing
+---
 
 ## Topics
 
