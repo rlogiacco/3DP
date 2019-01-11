@@ -9,22 +9,22 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 ### Fabrication
 
 #### Additive vs Subtractive
-[/assets/additive.gif]
-[/assets/subtractive.gif]
+![](/assets/additive.gif)
+![](/assets/subtractive.gif)
 
 #### Computer Numerical Control
 
-[https://upload.wikimedia.org/wikipedia/commons/f/fb/Pantograph_animation.gif]
-[human.gif]
-[plotter.gif]
+![](https://upload.wikimedia.org/wikipedia/commons/f/fb/Pantograph_animation.gif)
+![](human.gif)
+![](plotter.gif)
 
 #### Safety
 
 * Tecniques
-  * Fused Deposition Modeling (FDM) [https://www.sculpteo.com/blog/wp-content/uploads/2016/08/FDM-Ultimaker-2-compressed.gif]
-  * Stereolithography (SLA) [https://www.sculpteo.com/blog/wp-content/uploads/2016/08/SLA-Formlabs-compressed.gif]
-  * Selective Laser Sintering (SLS) [https://www.sculpteo.com/blog/wp-content/uploads/2016/09/Carbon3D_M1.gif]
-  * Continuous Liquid Interface Production (CLIP) [https://www.sculpteo.com/blog/wp-content/uploads/2016/08/SLS-EOS-Formiga-P110.gif]
+  * Fused Deposition Modeling (FDM) ![](https://www.sculpteo.com/blog/wp-content/uploads/2016/08/FDM-Ultimaker-2-compressed.gif)
+  * Stereolithography (SLA) ![](https://www.sculpteo.com/blog/wp-content/uploads/2016/08/SLA-Formlabs-compressed.gif)
+  * Selective Laser Sintering (SLS) ![](https://www.sculpteo.com/blog/wp-content/uploads/2016/09/Carbon3D_M1.gif)
+  * Continuous Liquid Interface Production (CLIP) ![](https://www.sculpteo.com/blog/wp-content/uploads/2016/08/SLS-EOS-Formiga-P110.gif)
 * FDM Materials
   * PLA
   * ABS
