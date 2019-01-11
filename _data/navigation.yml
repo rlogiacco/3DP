@@ -2,57 +2,42 @@
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Fundamentals"
+        url: /fundamentals
+      - title: "Getting Started"
+        url: /getting-started
+      - title: "Slicer Basics"
+        url: /slicer
+      - title: "Slicer Advanced"
+        url: /slicer-adv
 
-  - title: Customization
+  - title: Geeetech i3
     children:
       - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+        url: /i3/configuration/
+      - title: "Firmware"
+        url: /i3/firmware/
+      - title: "Cura"
+        url: /i3/cura/
+      - title: "Slic3r"
+        url: /i3/Slic3r/
 
-  - title: Content
+  - title: Ender 3
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Configuration"
+        url: /e3/configuration/
+      - title: "Firmware"
+        url: /e3/firmware/
+      - title: "Duet Wifi"
+        url: /e3/duet/
+      - title: "Cura"
+        url: /e3/cura/
+      - title: "Slic3r"
+        url: /e3/Slic3r/
 
-  - title: Extras
+  - title: Extra
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-
-  - title: Meta
-    children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+      - title: "AgileWare"
+        url: https://www.agileware.org
+      - title: "Blog"
+        url: https://rlogiacco.wordpress.com
