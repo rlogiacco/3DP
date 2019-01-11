@@ -8,12 +8,18 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 
 ### Fabrication
 
-Additive vs Subtractive
+#### Additive vs Subtractive
+[/assets/additive.gif]
+[/assets/subtractive.gif]
 
-![/assets/additive.gif]
-![/assets/subtractive.gif]
-  * Computer Numerical Control
-  * Safety
+#### Computer Numerical Control
+
+[https://upload.wikimedia.org/wikipedia/commons/f/fb/Pantograph_animation.gif]
+[human.gif]
+[plotter.gif]
+
+#### Safety
+
 * Tecniques
   * Fused Deposition Modeling (FDM) [https://www.sculpteo.com/blog/wp-content/uploads/2016/08/FDM-Ultimaker-2-compressed.gif]
   * Stereolithography (SLA) [https://www.sculpteo.com/blog/wp-content/uploads/2016/08/SLA-Formlabs-compressed.gif]
