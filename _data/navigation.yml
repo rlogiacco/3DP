@@ -3,41 +3,41 @@ docs:
   - title: Getting Started
     children:
       - title: "Fundamentals"
-        url: /fundamentals
+        url: /learning/fundamentals
       - title: "Getting Started"
-        url: /getting-started
+        url: /learning/getting-started
       - title: "Slicer Basics"
-        url: /slicer
+        url: /learning/slicer
       - title: "Slicer Advanced"
-        url: /slicer-adv
+        url: /learning/slicer-adv
 
   - title: Geeetech i3
     children:
       - title: "Configuration"
-        url: /i3/configuration/
+        url: /i3/configuration
       - title: "Firmware"
-        url: /i3/firmware/
+        url: /i3/firmware
       - title: "Cura"
-        url: /i3/cura/
+        url: /i3/cura
       - title: "Slic3r"
-        url: /i3/Slic3r/
+        url: /i3/slic3r
 
   - title: Ender 3
     children:
       - title: "Configuration"
-        url: /e3/configuration/
+        url: /e3/configuration
       - title: "Firmware"
-        url: /e3/firmware/
+        url: /e3/firmware
       - title: "Duet Wifi"
-        url: /e3/duet/
+        url: /e3/duet
       - title: "Cura"
-        url: /e3/cura/
+        url: /e3/cura
       - title: "Slic3r"
-        url: /e3/Slic3r/
+        url: /e3/Sslic3r
 
-  - title: Extra
-    children:
-      - title: "AgileWare"
-        url: https://www.agileware.org
-      - title: "Blog"
-        url: https://rlogiacco.wordpress.com
+#  - title: Extra
+#    children:
+#      - title: "AgileWare"
+#        url: https://www.agileware.org
+#      - title: "Blog"
+#        url: https://rlogiacco.wordpress.com

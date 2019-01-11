@@ -25,7 +25,7 @@ footer:
       url: "https://rlogiacco.wordpress.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://tritter.com/rlogiacco"
+      url: "https://twitter.com/rlogiacco"
 search: false
 #search_provider: algolia
 include: ["_pages"]
