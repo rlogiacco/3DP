@@ -21,10 +21,10 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 #### Safety
 
 * Tecniques
-  * Fused Deposition Modeling (FDM) ![](https://www.sculpteo.com/blog/wp-content/uploads/2016/08/FDM-Ultimaker-2-compressed.gif)
-  * Stereolithography (SLA) ![](https://www.sculpteo.com/blog/wp-content/uploads/2016/08/SLA-Formlabs-compressed.gif)
-  * Selective Laser Sintering (SLS) ![](https://www.sculpteo.com/blog/wp-content/uploads/2016/09/Carbon3D_M1.gif)
-  * Continuous Liquid Interface Production (CLIP) ![](https://www.sculpteo.com/blog/wp-content/uploads/2016/08/SLS-EOS-Formiga-P110.gif)
+  * Fused Deposition Modeling (FDM) ![](/assets/fdm.gif)
+  * Stereolithography (SLA) ![](/assets/sla.gif)
+  * Selective Laser Sintering (SLS) ![](/assets/sls.gif)
+  * Continuous Liquid Interface Production (CLIP) ![](/assets/clip.gif)
 * FDM Materials
   * PLA
   * ABS
