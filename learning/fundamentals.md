@@ -15,8 +15,8 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 #### Computer Numerical Control
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/fb/Pantograph_animation.gif)
-![](human.gif)
-![](plotter.gif)
+![](/assets/human.gif)
+![](/assets/plotter.gif)
 
 #### Safety
 
