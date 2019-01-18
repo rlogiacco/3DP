@@ -28,12 +28,10 @@ footer:
       url: "https://twitter.com/rlogiacco"
 search: false
 #search_provider: algolia
-include: ["_pages"]
 defaults:
   - 
     scope:
       path: ""
-      type: pages
     values:
       layout: single
       sidebar:
