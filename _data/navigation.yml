@@ -1,5 +1,5 @@
 # navigation links
-docs:
+main:
   - title: Getting Started
     children:
       - title: "Fundamentals"
