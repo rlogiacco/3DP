@@ -9,22 +9,22 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 ### Fabrication
 
 #### Additive vs Subtractive
-![](/assets/additive.gif)
-![](/assets/subtractive.gif)
+![](../assets/additive.gif)
+![](../assets/subtractive.gif)
 
 #### Computer Numerical Control
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/fb/Pantograph_animation.gif)
-![](/assets/human.gif)
-![](/assets/plotter.gif)
+![](../assets/human.gif)
+![](../assets/plotter.gif)
 
 #### Safety
 
 * Tecniques
-  * Fused Deposition Modeling (FDM) ![](/assets/fdm.gif)
-  * Stereolithography (SLA) ![](/assets/sla.gif)
-  * Selective Laser Sintering (SLS) ![](/assets/sls.gif)
-  * Continuous Liquid Interface Production (CLIP) ![](/assets/clip.gif)
+  * Fused Deposition Modeling (FDM) ![](../assets/fdm.gif)
+  * Stereolithography (SLA) ![](../assets/sla.gif)
+  * Selective Laser Sintering (SLS) ![](../assets/sls.gif)
+  * Continuous Liquid Interface Production (CLIP) ![](../assets/clip.gif)
 * FDM Materials
   * PLA
   * ABS
