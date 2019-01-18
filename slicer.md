@@ -1,4 +1,6 @@
-
+---
+title: Slicers' basics
+---
 
 ## Layer thickness
 
