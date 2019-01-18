@@ -2,42 +2,57 @@
 docs:
   - title: Getting Started
     children:
-      - title: "Fundamentals"
-        url: /learning/fundamentals
-      - title: "Getting Started"
-        url: /learning/getting-started
-      - title: "Slicer Basics"
-        url: /learning/slicer
-      - title: "Slicer Advanced"
-        url: /learning/slicer-adv
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
 
-  - title: Geeetech i3
+  - title: Customization
     children:
       - title: "Configuration"
-        url: /i3/configuration
-      - title: "Firmware"
-        url: /i3/firmware
-      - title: "Cura"
-        url: /i3/cura
-      - title: "Slic3r"
-        url: /i3/slic3r
+        url: /docs/configuration/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
 
-  - title: Ender 3
+  - title: Content
     children:
-      - title: "Configuration"
-        url: /e3/configuration
-      - title: "Firmware"
-        url: /e3/firmware
-      - title: "Duet Wifi"
-        url: /e3/duet
-      - title: "Cura"
-        url: /e3/cura
-      - title: "Slic3r"
-        url: /e3/Sslic3r
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
 
-#  - title: Extra
-#    children:
-#      - title: "AgileWare"
-#        url: https://www.agileware.org
-#      - title: "Blog"
-#        url: https://rlogiacco.wordpress.com
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
+
+  - title: Meta
+    children:
+      - title: "History"
+        url: /docs/history/
+      - title: "Contributing"
+        url: /docs/contributing/
+      - title: "Old 2.2 Docs"
+        url: /docs/docs-2-2/
+      - title: "License"
+        url: /docs/license/
+      - title: "Terms &amp; Privacy Policy"
+        url: /terms/
