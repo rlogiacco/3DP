@@ -11,6 +11,7 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 #### Additive vs Subtractive
 ![](../assets/additive.gif)
 ![](../assets/subtractive.gif)
+{% include video id="tfYGzZoYbuM" provider="youtube" %}
 
 #### Computer Numerical Control
 
