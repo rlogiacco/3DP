@@ -32,34 +32,48 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 ## Techniques
 **Fused Deposition Modeling (FDM)**
 {: .text-center}
-
 {% include figure image_path="/assets/fdm.gif" %}
 
 **Stereolithography (SLA)**
 {: .text-center}
 {% include figure image_path="/assets/sla.gif" %}
 
-**Selective Laser Sintering (SLS)** {: .text-center}
+**Selective Laser Sintering (SLS)**
+{: .text-center}
 {% include figure image_path="/assets/sls.gif" %}
 
-**Continuous Liquid Interface Production (CLIP)** {: .text-center}
+**Continuous Liquid Interface Production (CLIP)**
+{: .text-center}
 {% include figure image_path="/assets/clip.gif" %}
 
 ## FDM Materials
-  * PLA
-  * ABS
-  * PETG
-  * PTU
-  * Nylon
-  * Infused
+  * **PLA** _(Polylactic Acid)_ is easy to print, rigid, strong and brittle
+  * **ABS** _(Acrylonitrile Butadiene Styrene)_ higer temperature resistance and less brittle than PLA, requires heated bed
+  * **PETG** _(Polyethylene Terephthalate Glycol)_ higher temperature resistance than ABS, requires higher temperatures and heated bed, more difficult to print
+  * **TPU** _(Thermoplastic Polyurethane)_ semi-flexible to flexible, high impact resistance
+  * **Nylon** _(Polyamide)_ high strenght, doesn't wear off easily, problematic on layer adhesion
+  * **Infused** represent variations of the above (mostly PLA) infused with other materials like: copper, bronze, wood, fiberglass, coffee and more.
 
 ## Printer parts
-  * Cartesian & Delta
+
+### Geometry
+**Cartesian**
+{: .text-center}
+{% include figure image_path="/assets/cartesian.gif" %} 
+
+**Delta**
+{: .text-center}
+{% include figure image_path="/assets/delta.gif" %}
+
+
+### Extruder
   * Direct drive & Bowden extruder
-  * Hot end
-    * Nozzle
-    * Heat break
-  * Print bed
+
+### Hot end
+  * Nozzle
+  * Heat break
+
+### Print bed
 
 ## Slicer
 
