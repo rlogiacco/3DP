@@ -1,17 +1,19 @@
 # navigation links
 main:
   - title: Getting Started
+    url: /learning/fundamentals
     children:
       - title: "Fundamentals"
         url: /learning/fundamentals
       - title: "Getting Started"
         url: /learning/getting-started
-      - title: "Slicer Basics"
+      - title: "Slicers' Basics"
         url: /learning/slicer
       - title: "Slicer Advanced"
         url: /learning/slicer-adv
 
   - title: Geeetech i3
+    url: /i3/configuration
     children:
       - title: "Configuration"
         url: /i3/configuration
@@ -23,6 +25,7 @@ main:
         url: /i3/slic3r
 
   - title: Ender 3
+    url: /e3/configuration
     children:
       - title: "Configuration"
         url: /e3/configuration
@@ -35,9 +38,5 @@ main:
       - title: "Slic3r"
         url: /e3/Sslic3r
 
-#  - title: Extra
-#    children:
-#      - title: "AgileWare"
-#        url: https://www.agileware.org
-#      - title: "Blog"
-#        url: https://rlogiacco.wordpress.com
+  - title: "AgileWare"
+    url: https://www.agileware.org
