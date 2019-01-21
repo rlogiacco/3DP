@@ -14,13 +14,13 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 {% include video id="tfYGzZoYbuM" provider="youtube" %}
 
 #### Additive vs Subtractive
-{% include figure image_path="../assets/additive.gif" caption="Additive" %}
-{% include figure image_path="../assets/subtractive.gif" caption="Subtractive" %}
+{% include figure image_path="/3DP/assets/additive.gif" caption="Additive" %}
+{% include figure image_path="/3DP/assets/subtractive.gif" caption="Subtractive" %}
 
 #### Computer Numerical Control
 
-{% include figure image_path="../assets/human.gif" caption="Human control" %}
-{% include figure image_path="../assets/plotter.gif" caption="Cumputer control" %}
+{% include figure image_path="/3DP/assets/human.gif" caption="Human control" %}
+{% include figure image_path="/3DP/assets/plotter.gif" caption="Cumputer control" %}
 
 ### Safety & precautions
 
@@ -31,10 +31,10 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 
 ## Tecniques
 
-{% include figure image_path="../assets/fdm.gif" caption="Fused Deposition Modeling (FDM)" %}
-{% include figure image_path="../assets/sla.gif" caption="Stereolithography (SLA)" %}
-{% include figure image_path="../assets/sls.gif" caption="Selective Laser Sintering (SLS)" %}
-{% include figure image_path="../assets/hclip.gif" caption="Continuous Liquid Interface Production (CLIP)" %}
+{% include figure image_path="/3DP/assets/fdm.gif" caption="Fused Deposition Modeling (FDM)" %}
+{% include figure image_path="/3DP/assets/sla.gif" caption="Stereolithography (SLA)" %}
+{% include figure image_path="/3DP/assets/sls.gif" caption="Selective Laser Sintering (SLS)" %}
+{% include figure image_path="/3DP/assets/hclip.gif" caption="Continuous Liquid Interface Production (CLIP)" %}
 
 ## FDM Materials
   * PLA
@@ -56,8 +56,9 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 
   * Cura ([download](https://ultimaker.com/en/products/ultimaker-cura-software))
   * Slic3r Prusa Edition ([download](https://github.com/prusa3d/Slic3r/releases))
-  * 
+
 ### Gcode sneak peak
+
 ```gcode
 G21 ;metric values
 G28 X Y ;home X and Y axes
@@ -87,22 +88,22 @@ M300 S1000 P50 ;beep
 ```
 
 ### Printer settings
-    * Firmware
-    * Bed size & print height
-    * Nozzle size
+  * Firmware
+  * Bed size & print height
+  * Nozzle size
 ### Filament settings
-    * Filament diameter
-    * Nozzle & bed temperature
+  * Filament diameter
+  * Nozzle & bed temperature
 ### Print settings
-    * Layer
-      * Thickness
-      * Perimeters & Surfaces
-    * Infill percentage & pattern
-    * Print, wall, infill & travel speed
-    * Skirt, brim & raft
-    * Supports
-    * Retraction distance & speed
-    * Vase mode
+  * Layer
+    * Thickness
+    * Perimeters & Surfaces
+  * Infill percentage & pattern
+  * Print, wall, infill & travel speed
+  * Skirt, brim & raft
+  * Supports
+  * Retraction distance & speed
+  * Vase mode
 ## Fusion 360
 [Download](https://www.autodesk.com/products/fusion-360/free-trial)
   * Sketching
@@ -114,5 +115,5 @@ M300 S1000 P50 ;beep
 
 ### Links
 
- * https://all3dp.com/guides/
- * https://www.thingiverse.com/
+  * https://all3dp.com/guides/
+  * https://www.thingiverse.com/
