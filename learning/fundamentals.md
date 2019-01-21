@@ -1,5 +1,7 @@
 ---
-title: Fundamentals of 3D printing
+title: Fundamentals of 3D printingtoc: true
+toc: true
+toc_icon: "cog"
 ---
 
 ## Principles
