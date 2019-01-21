@@ -1,5 +1,5 @@
 ---
-title: Fundamentals of 3D printingtoc: true
+title: Fundamentals of 3D printing
 toc: true
 toc_icon: "cog"
 ---
