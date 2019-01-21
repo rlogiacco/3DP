@@ -30,8 +30,8 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
   * Eye protection
 
 ## Tecniques
-
-{% include figure image_path="/assets/fdm.gif" caption="Fused Deposition Modeling (FDM)" %}{: .text-center}
+**Fused Deposition Modeling (FDM)**{: .text-center}
+![](/assets/fdm.gif)
 {% include figure image_path="/assets/sla.gif" caption="Stereolithography (SLA)" %}{: .align-center}
 {% include figure image_path="/assets/sls.gif" caption="Selective Laser Sintering (SLS)" %}
 {% include figure image_path="/assets/clip.gif" caption="Continuous Liquid Interface Production (CLIP)" %}
