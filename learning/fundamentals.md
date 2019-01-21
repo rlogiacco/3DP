@@ -14,13 +14,13 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 {% include video id="tfYGzZoYbuM" provider="youtube" %}
 
 #### Additive vs Subtractive
-{% include figure image_path="/3DP/assets/additive.gif" caption="Additive" %}
-{% include figure image_path="/3DP/assets/subtractive.gif" caption="Subtractive" %}
+{% include figure image_path="/assets/additive.gif" caption="Additive" %}
+{% include figure image_path="/assets/subtractive.gif" caption="Subtractive" %}
 
 #### Computer Numerical Control
 
-{% include figure image_path="/3DP/assets/human.gif" caption="Human control" %}
-{% include figure image_path="/3DP/assets/plotter.gif" caption="Cumputer control" %}
+{% include figure image_path="/assets/human.gif" caption="Human control" %}
+{% include figure image_path="/assets/plotter.gif" caption="Cumputer control" %}
 
 ### Safety & precautions
 
@@ -31,10 +31,10 @@ The principles of 3DP, what to expect and what 3DP is not or not yet.
 
 ## Tecniques
 
-{% include figure image_path="/3DP/assets/fdm.gif" caption="Fused Deposition Modeling (FDM)" %}
-{% include figure image_path="/3DP/assets/sla.gif" caption="Stereolithography (SLA)" %}
-{% include figure image_path="/3DP/assets/sls.gif" caption="Selective Laser Sintering (SLS)" %}
-{% include figure image_path="/3DP/assets/hclip.gif" caption="Continuous Liquid Interface Production (CLIP)" %}
+{% include figure image_path="/assets/fdm.gif" caption="Fused Deposition Modeling (FDM)" %}
+{% include figure image_path="/assets/sla.gif" caption="Stereolithography (SLA)" %}
+{% include figure image_path="/assets/sls.gif" caption="Selective Laser Sintering (SLS)" %}
+{% include figure image_path="/assets/clip.gif" caption="Continuous Liquid Interface Production (CLIP)" %}
 
 ## FDM Materials
   * PLA
