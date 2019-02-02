@@ -11,7 +11,8 @@ main:
         url: /learning/slicer
       - title: "Slicer Advanced"
         url: /learning/slicer-adv
-
+  - title: Checklists
+    url: /checklists
   - title: Geeetech i3
     url: /i3/configuration
     children:
