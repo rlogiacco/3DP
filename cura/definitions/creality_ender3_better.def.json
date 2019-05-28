@@ -12,7 +12,10 @@
         "machine_extruder_trains":
         {
             "0": "creality_ender3_extruder_0"
-        }
+        },
+        "has_variants": true,
+        "variants_name": "Nozzle Size",
+        "preferred_variant_name": "0.4mm Nozzle"
     },
     "overrides": {
         "machine_start_gcode": {
