@@ -49,6 +49,9 @@
         "speed_support_interface": { "value": "speed_print" },
 
         "skirt_brim_speed": { "value": "speed_layer_0" },
+        
+        "z_seam_type": { "value": "'back'"},
+        "z_seam_corner": { "value": "'z_seam_corner_none'"},
 
         "material_bed_temperature": { "value": "default_material_bed_temperature + 10 if default_material_bed_temperature > 0 else 0.0"},
 
@@ -74,7 +77,7 @@
         "cool_fan_enabled": { "value": true },
         "cool_min_layer_time": { "value": 10 },
 
-        "adaptive_layer_height_variation": { "value": 0.04 },
+        "adaptive_layer_height_variation": { "value": 0.12 },
         "adaptive_layer_height_variation_step": { "value": 0.04 },
 
         "meshfix_maximum_resolution": { "value": "0.05" },
