@@ -1,18 +1,11 @@
 {
-    "name": "Creality Ender-3 Better",
+    "name": "Creality Ender-3 AgileWare",
     "version": 2,
     "inherits": "creality_ender3",
     "metadata": {
         "visible": true,
         "author": "Roberto Lo Giacco",
-        "manufacturer": "Creality3D",
-        "file_formats": "text/x-gcode",
-        "platform": "creality_ender3_platform.stl",
-        "preferred_quality_type": "draft",
-        "machine_extruder_trains":
-        {
-            "0": "creality_ender3_extruder_0"
-        },
+        "has_machine_quality": true,
         "has_variants": true,
         "variants_name": "Nozzle Size",
         "preferred_variant_name": "0.4mm Nozzle"
@@ -57,10 +50,7 @@
 
         "skirt_brim_speed": { "value": "speed_layer_0" },
 
-        "line_width": { "value": "machine_nozzle_size * 1.25" },
-        "infill_pattern": { "value": "cubicsubdiv" },
-
-        "material_bed_temperature_layer_0": { "value": "material_bed_temperature + 10 if material_bed_temperature > 0 else material_bed_temperature"},
+        "material_bed_temperature": { "value": "default_material_bed_temperature + 10 if default_material_bed_temperature > 0 else 0.0"},
 
         "retraction_speed": {
             "maximum_value_warning": "machine_max_feedrate_e if retraction_enable else float('inf')",
@@ -102,8 +92,8 @@
         "support_brim_enable": { "value": true },
         "support_brim_width": { "value": 4 },
 
-        "support_interface_enable": { "value": true },
-        "support_interface_height": { "value": "layer_height * 3" },
+        "support_interface_enable": { "value": false },
+        "support_interface_height": { "value": "layer_height * 2" },
         "support_interface_density": { "value": 33.333 },
         "support_interface_pattern": { "value": "'grid'" },
         "support_interface_skip_height": { "value": 0.2 },

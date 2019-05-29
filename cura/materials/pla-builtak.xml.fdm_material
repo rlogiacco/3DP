@@ -5,34 +5,32 @@
       <brand>Geeetech</brand>
       <material>PLA</material>
       <color>Generic</color>
-      <label>PLA (Tape)</label>
+      <label>PLA (Buildtak)</label>
     </name>
-    <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
-    <compatible>True</compatible>
-    <GUID>b422db27-74cc-4f09-9e7e-57c013fefba1</GUID>
-    <color_code>#ffaa00</color_code>
-    <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
-    <definition>fdmprinter</definition>
     <version>2</version>
+    <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
+    <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
+    <color_code>#ffaa00</color_code>
+    <GUID>b422db27-74cc-4f09-9e7e-57c013fefba1</GUID>
   </metadata>
   <properties>
-    <diameter>1.75</diameter>
     <density>1.24</density>
+    <diameter>1.8</diameter>
   </properties>
   <settings>
-    <setting key="adhesion tendency">0</setting>
-    <setting key="standby temperature">175</setting>
-    <setting key="surface energy">100</setting>
     <setting key="heated bed temperature">0.0</setting>
-    <setting key="retraction amount">3.0</setting>
     <setting key="print temperature">195.0</setting>
     <setting key="retraction speed">40.0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="retraction amount">3.0</setting>
+    <setting key="standby temperature">175</setting>
     <machine>
       <machine_identifier manufacturer="IMADE3D" product="IMADE3D JellyBOX" />
-      <setting key="print temperature">210.0</setting>
       <setting key="heated bed temperature">55</setting>
-      <setting key="retraction amount">6.5</setting>
+      <setting key="print temperature">210.0</setting>
       <setting key="retraction speed">25.0</setting>
+      <setting key="retraction amount">6.5</setting>
       <hotend id="0.4 mm 2-fans">
         <setting key="hardware compatible">yes</setting>
       </hotend>
@@ -42,11 +40,11 @@
     </machine>
     <machine>
       <machine_identifier manufacturer="Cartesio bv" product="cartesio" />
+      <setting key="heated bed temperature">50</setting>
       <setting key="print temperature">185.0</setting>
       <setting key="standby temperature">160</setting>
-      <setting key="heated bed temperature">50</setting>
-      <setting key="print cooling">40.0</setting>
       <setting key="retraction amount">6.5</setting>
+      <setting key="print cooling">40.0</setting>
     </machine>
   </settings>
 </fdmmaterial>
