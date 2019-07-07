@@ -34,7 +34,7 @@
         "jerk_enabled": { "value": false },
 
         "speed_print": { "value": 60.0 } ,
-        "speed_infill": { "value": "150.0 if speed_print > 100 else speed_print * 1.5" },
+        "speed_infill": { "value": "125.0 if speed_print > 100 else speed_print * 1.25" },
         "speed_wall": { "value": "speed_print" },
         "speed_wall_0": { "value": "speed_wall / 2" },
         "speed_wall_x": { "value": "speed_wall" },
