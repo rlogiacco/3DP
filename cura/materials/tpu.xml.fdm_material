@@ -5,26 +5,24 @@
       <brand>Surreal</brand>
       <material>TPU</material>
       <color>Generic</color>
-      <label>TPU</label>
+      <label>TPU (Buildtak)</label>
     </name>
-    <adhesion_info>Use with ZYYX standard build plate</adhesion_info>
-    <compatible>True</compatible>
     <GUID>e5160c2f-d436-448d-81fe-9214e24917a7</GUID>
-    <color_code>#c0c0c0</color_code>
-    <description>Fast, safe and reliable printing. ZYYX proFlex is ideal for flexible parts or soft grip parts.</description>
-    <definition>fdmprinter</definition>
     <version>1</version>
+    <adhesion_info>Use with ZYYX standard build plate</adhesion_info>
+    <description>Fast, safe and reliable printing. ZYYX proFlex is ideal for flexible parts or soft grip parts.</description>
+    <color_code>#c0c0c0</color_code>
   </metadata>
   <properties>
-    <diameter>1.75</diameter>
     <density>1.2</density>
+    <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">240.0</setting>
+    <setting key="heated bed temperature">0.0</setting>
+    <setting key="retraction speed">5.0</setting>
     <setting key="standby temperature">200</setting>
-    <setting key="heated bed temperature">60.0</setting>
-    <setting key="print cooling">100</setting>
     <setting key="retraction amount">0.0</setting>
-    <setting key="retraction speed">0.0</setting>
+    <setting key="print cooling">100</setting>
+    <setting key="print temperature">240.0</setting>
   </settings>
 </fdmmaterial>
