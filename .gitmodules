@@ -1,3 +1,9 @@
 [submodule "wiki"]
 	path = wiki
 	url = https://github.com/rlogiacco/3DP.wiki.git
+[submodule "marlin/geeetech-i3"]
+	path = marlin/geeetech-i3
+	url = https://github.com/rlogiacco/marlin.git
+[submodule "marlin/ender-3"]
+	path = marlin/ender-3
+	url = https://github.com/rlogiacco/marlin
