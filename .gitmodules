@@ -4,6 +4,12 @@
 [submodule "marlin/geeetech-i3"]
 	path = marlin/geeetech-i3
 	url = https://github.com/rlogiacco/marlin.git
+	branch = geeetech-i3
 [submodule "marlin/ender-3"]
 	path = marlin/ender-3
-	url = https://github.com/rlogiacco/marlin
+	url = https://github.com/rlogiacco/marlin.git
+	branch = ender-3
+[submodule "marlin/site"]
+	path = marlin/site
+	url = https://github.com/rlogiacco/3DP.git
+	branch = gh-pages
