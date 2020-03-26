@@ -9,7 +9,7 @@
 	path = marlin/ender-3
 	url = https://github.com/rlogiacco/marlin.git
 	branch = ender-3
-[submodule "marlin/site"]
-	path = marlin/site
+[submodule "site"]
+	path = site
 	url = https://github.com/rlogiacco/3DP.git
 	branch = gh-pages
